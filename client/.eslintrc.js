@@ -7,7 +7,7 @@ module.exports = {
     "mocha": true
   },
   "rules": {
-    "import/prefer-default-export": 0,
+    "import/prefer-default-export": 1,
     "max-len": [
       2,
       250
